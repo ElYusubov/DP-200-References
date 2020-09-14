@@ -1,4 +1,5 @@
-# DP-200-References
-Collection of Links and references for the exam preparation.
+# DP-200-References from Microsoft Documentation
+<b>Welcome to Collection of references and tutorials page, solely hand-picked for your exam preparation.</b>
 
-I have split them in refences of 10 articles at a time for easy navgation and learning experience.
+The refences are split into 10 items (eigther tutorial or article) per page, for easy navgation and learning experience.</br>
+Hope this will help in your preparaton.
