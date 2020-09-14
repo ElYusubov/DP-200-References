@@ -1,3 +1,5 @@
+<b>Part - 2</b>
+
 <b>Create a self-hosted integration runtime - Azure Data Factory</b></br>
 https://docs.microsoft.com/en-us/azure/data-factory/create-self-hosted-integration-runtime
 
